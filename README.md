@@ -1,5 +1,5 @@
 # RNA-e-Deep-Learning---CESAR-School-2024.02
 
-#Nome: Nayla Paixão
+## Nome: Nayla Paixão
 
-#Email: ncsp@cesar.school
+## Email: ncsp@cesar.school
